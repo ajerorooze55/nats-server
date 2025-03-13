@@ -6,7 +6,7 @@
 
 [![License][License-Image]][License-Url] [![Build][Build-Status-Image]][Build-Status-Url] [![Release][Release-Image]][Release-Url] [![Slack][Slack-Image]][Slack-Url] [![Coverage][Coverage-Image]][Coverage-Url] [![Docker Downloads][Docker-Image]][Docker-Url] [![GitHub Downloads][GitHub-Image]][Somsubhra-URL] [![CII Best Practices][CIIBestPractices-Image]][CIIBestPractices-Url] [![Artifact Hub][ArtifactHub-Image]][ArtifactHub-Url]
 
-## Documentation
+## Documentation LMAO
 
 - [Official Website](https://nats.io)
 - [Official Documentation](https://docs.nats.io)
